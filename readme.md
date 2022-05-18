@@ -1,6 +1,3 @@
-
-![image](https://user-images.githubusercontent.com/49359900/168945484-1c917222-9c3f-44e2-9c15-534f4cd69753.png)
-
 **基本功能**
 1. 支持16进制数据发送与接收。
 2. 支持windows下COM9以上的串口通信。
@@ -19,3 +16,10 @@
 **其他说明**
 1. 编译后请将源码下的file目录中的所有文件复制到可执行文件同一目录。
 2. 如果有更好的建议或者意见，请留言，谢谢！
+![image](https://user-images.githubusercontent.com/49359900/168945484-1c917222-9c3f-44e2-9c15-534f4cd69753.png)
+
+Fork来源于 https://gitee.com/fu-pengfei-1/QWidgetDemo/tree/master/tool/comtool
+
+做了部分修改
+1、COM号可自动识别
+2、界面布局修改
