@@ -18,8 +18,9 @@
 2. 如果有更好的建议或者意见，请留言，谢谢！
 ![image](https://user-images.githubusercontent.com/49359900/168945484-1c917222-9c3f-44e2-9c15-534f4cd69753.png)
 
-Fork来源于 https://gitee.com/fu-pengfei-1/QWidgetDemo/tree/master/tool/comtool
+Fork来源于 https://gitee.com/feiyangqingyun/QWidgetDemo/tree/master/tool/comtool
+原作者:飞扬青云
 
 做了部分修改
-1、COM号可自动识别
-2、界面布局修改
+1、COM号可自动识别;  
+2、界面布局修改。  
